@@ -26,13 +26,8 @@
 | โฟลเดอร์ / ไฟล์ | รายละเอียด |
 |---|---|
 | [`outlines/`](outlines/) | โครงสร้างหลักสูตร (Course Outline) ทั้งฉบับภาษาไทย/อังกฤษ ทั้ง `.md` และ `.pdf` |
-| [`notes/`](notes/) | โน้ตประกอบการสอนแบบละเอียดรายวัน (Day 1–5) |
-| [`prepostest/`](prepostest/) | แบบทดสอบก่อนเรียน (Pre-test) พร้อมเฉลย — ใช้กับ Quizizz / Wayground ได้ |
+| [`notes/`](notes/) | โน้ตประกอบการสอนแบบละเอียดรายวัน (Day 1–5) (Pre-test) พร้อมเฉลย — ใช้กับ Quizizz / Wayground ได้ |
 | [`presentation/`](presentation/) | สไลด์นำเสนอประกอบการอบรม (PDF) |
-| [`example/`](example/) | ตัวอย่างรูปแบบโน้ตและ Pre-test สำหรับใช้อ้างอิง |
-| [`cover/`](cover/) | ภาพปกหลักสูตร (ฉบับ 3 วัน / 5 วัน) |
-
-> **หมายเหตุ:** โฟลเดอร์ `prepostest`, `example` และ `cover` ถูกกำหนดใน `.gitignore` (เป็นสื่อภายในที่ไม่ commit ขึ้นรีโพสาธารณะ)
 
 ---
 
