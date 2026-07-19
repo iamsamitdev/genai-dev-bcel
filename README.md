@@ -3,7 +3,10 @@
 > หลักสูตรอบรมเชิงปฏิบัติการ ยกระดับนักพัฒนาจากยุค "AI ช่วยเติมโค้ด" สู่ยุค **Agentic Software Engineering** และการสร้างระบบ AI ขึ้น Production จริง
 
 **บริษัท ไอทีจีเนียส เอ็นจิเนียริ่ง จำกัด | IT GENIUS ENGINEERING CO., LTD.**
-📞 02-570-8449 · 088-807-9770 · Line ID: @itgenius · 🌐 [www.itgenius.co.th](https://www.itgenius.co.th) · ✉️ contact@itgenius.co.th
+· 📞 02-570-8449 · 088-807-9770 
+· Line ID: @itgenius 
+· 🌐 [www.itgenius.co.th](https://www.itgenius.co.th) 
+· ✉️ contact@itgenius.co.th
 
 ---
 
