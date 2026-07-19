@@ -3,10 +3,10 @@
 > หลักสูตรอบรมเชิงปฏิบัติการ ยกระดับนักพัฒนาจากยุค "AI ช่วยเติมโค้ด" สู่ยุค **Agentic Software Engineering** และการสร้างระบบ AI ขึ้น Production จริง
 
 **บริษัท ไอทีจีเนียส เอ็นจิเนียริ่ง จำกัด | IT GENIUS ENGINEERING CO., LTD.**
-· 📞 02-570-8449 · 088-807-9770 
-· Line ID: @itgenius 
-· 🌐 [www.itgenius.co.th](https://www.itgenius.co.th) 
-· ✉️ contact@itgenius.co.th
+- 📞 02-570-8449 · 088-807-9770 
+- Line ID: @itgenius 
+- 🌐 [www.itgenius.co.th](https://www.itgenius.co.th) 
+- ✉️ contact@itgenius.co.th
 
 ---
 
@@ -64,15 +64,15 @@
 
 ## 🛠️ เครื่องมือที่ใช้ในหลักสูตร
 
-· Claude (Claude Code) 
-· ChatGPT 
-· Gemini 
-· GitHub Copilot Agent Mode 
-· Cursor 
-· Windsurf 
-· MCP Servers 
-· Vector Database 
-· AI Orchestration Framework (LangChain / LlamaIndex)
+- Claude (Claude Code) 
+- ChatGPT 
+- Gemini 
+- GitHub Copilot Agent Mode 
+- Cursor 
+- Windsurf 
+- MCP Servers 
+- Vector Database 
+- AI Orchestration Framework (LangChain / LlamaIndex)
 
 **โมเดลอ้างอิงปี 2026:** Claude Fable 5 / Opus 4.8 / Sonnet 5 / Haiku 4.5 · GPT-5.6 · Gemini 3.5 และโมเดล Open-source
 
