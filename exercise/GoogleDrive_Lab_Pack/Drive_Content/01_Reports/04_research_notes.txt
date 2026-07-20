@@ -1,0 +1,31 @@
+Notes: Research ตลาด AI Tools สำหรับ SME ไทย
+
+วันที่: มีนาคม 2569
+ผู้วิจัย: ทีม Strategy
+
+แหล่งข้อมูล: 
+- ผลสำรวจ 200 บริษัท SME ไทย
+- รายงาน Gartner Q1/2569
+- Interview ผู้บริหาร 15 บริษัท
+
+Key Findings:
+
+1. การใช้ AI ใน SME ไทย
+- 67% ใช้ AI Chatbot อยู่แล้ว (ส่วนใหญ่เป็น ChatGPT)
+- 28% ต้องการ Agentic AI แต่ยังไม่รู้จะเริ่มยังไง
+- เหตุผลหลักที่ไม่ใช้: กลัวราคา (45%), ไม่รู้วิธีเริ่ม (38%)
+
+2. Use Cases ที่ต้องการมากสุด
+- Document Automation: 78%
+- Email Management: 65%
+- Data Analysis: 61%
+- Meeting Summaries: 54%
+
+3. Competitive Landscape
+- Claude Cowork: เพิ่งเข้าตลาด, รู้จัก 23%
+- Microsoft Copilot: รู้จัก 71%, ใช้จริง 18%
+- Google Workspace AI: รู้จัก 58%, ใช้จริง 12%
+
+4. Price Sensitivity
+- จ่ายได้ต่อคนต่อเดือน: 500-1,500 บาท (62%)
+- ต้องการ ROI ชัดเจนก่อนตัดสินใจ: 81%

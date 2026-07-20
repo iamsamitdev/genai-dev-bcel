@@ -1,0 +1,27 @@
+บันทึกการประชุม — Q2 Kick-off
+วันที่: 1 เมษายน 2569, 10:00-12:00 น.
+
+ผู้เข้าร่วม: ทีมทั้งหมด + Management
+
+สมชาย: เราเข้า Q2 แล้ว ขอสรุป Q1 และประกาศ Q2 Targets
+
+สรุป Q1:
+- ยอดขาย 4.58M (เกินเป้า 7.2%)
+- ลูกค้าใหม่ 45 ราย (เกินเป้า 12.5%)
+- CSAT 4.2/5.0
+
+Q2 Targets:
+- ยอดขาย: 5.5M บาท
+- ลูกค้าใหม่: 60 ราย
+- CRM Launch: มิถุนายน
+- CSAT: รักษา 4.2+
+
+โปรแกรมพิเศษ Q2:
+1. Partner Program กับ ABC (เริ่ม พ.ค.)
+2. Early Bird CRM (Promotion มิถุนายน)
+3. Sales Contest Q2 (รางวัล: ทริปต่างประเทศ)
+
+--- Action Items ทีม ---
+- ทุกคน: Submit Q2 Personal Goals ภายใน 5 เม.ย.
+- Sales Team: ส่ง Pipeline Q2 ภายใน 3 เม.ย.
+- Tech Team: Sprint Planning Q2 ภายใน 3 เม.ย.

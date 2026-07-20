@@ -1,0 +1,31 @@
+บันทึกการประชุม — Weekly Team Standup
+วันที่: 22 มีนาคม 2569, 09:00-09:30 น.
+
+ผู้เข้าร่วม: ทีมทั้งหมด 7 คน
+
+ROUND: Yesterday / Today / Blockers
+
+สมชาย:
+- เมื่อวาน: ประชุม Partner ABC ได้ข้อตกลงความร่วมมือ
+- วันนี้: เขียน MOU Draft
+- Blocker: รอลายเซ็น Legal
+
+วิภา:
+- เมื่อวาน: Close deal ลูกค้าใหม่ 2 ราย รวม 180K
+- วันนี้: Follow-up pipeline ที่ค้างอยู่
+- Blocker: ไม่มี
+
+ธนา:
+- เมื่อวาน: Fix bug ใน CRM Module 3
+- วันนี้: Code Review PR #47
+- Blocker: ต้องการ clarification จาก BA เรื่อง spec
+
+พิม:
+- เมื่อวาน: เขียน User Story ใหม่ 5 เรื่อง
+- วันนี้: ตอบ ธนา เรื่อง spec, UAT Planning
+- Blocker: ไม่มี
+
+--- Highlights ---
+✅ Q1 Close: ยอดขายรวม 4.58M บาท
+✅ Partner Deal กับ ABC เสร็จแล้ว
+⚠️ CRM Launch เลื่อนเป็นมิถุนายน (ตามบอร์ดอนุมัติ)

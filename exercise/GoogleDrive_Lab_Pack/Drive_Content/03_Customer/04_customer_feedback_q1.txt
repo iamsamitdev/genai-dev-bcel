@@ -1,0 +1,29 @@
+Customer Feedback รวบรวม Q1/2569
+
+ช่องทาง: Email Survey, Support Tickets, Social Media
+จำนวน Responses: 147 รายการ
+
+=== CATEGORY BREAKDOWN ===
+
+Product Quality (48 responses):
+[5★] "คุณภาพเกินราคา สินค้าทนทานมาก" — B2B client
+[5★] "โน้ตบุ๊กใช้งานได้ดีมาก ทีมพอใจทุกคน" — Edu sector
+[4★] "ดี แต่อยากได้รับประกันนานกว่านี้" — Retail
+[3★] "Battery ไม่ค่อยทน" — Individual
+
+Service Quality (62 responses):
+[5★] "ทีม Support ตอบเร็วมาก แก้ปัญหาได้ใน 30 นาที"
+[5★] "Sales ให้คำแนะนำดีมาก ไม่ Hard Sell"
+[4★] "ตอบช้าช่วง Peak Hours"
+[2★] "ต้องโทรซ้ำ 3 รอบกว่าจะได้รับการแก้ไข"
+
+Delivery (37 responses):
+[5★] "ส่งเร็วมาก ได้รับของวันถัดไป"
+[4★] "Packaging ดี ของไม่เสียหาย"
+[3★] "Tracking ไม่ค่อย Update"
+
+=== TOP IMPROVEMENT REQUESTS ===
+1. Mobile App ที่ใช้งานง่ายกว่าเดิม (34%)
+2. Payment ด้วย Installment (28%)
+3. Extended Warranty Options (22%)
+4. Thai-language Manual (16%)
